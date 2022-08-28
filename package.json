@@ -1,0 +1,21 @@
+{
+  "name": "unleashedcode-pastelpower",
+  "displayName": "unleashedcode-pastelpower",
+  "description": "A kind and colourful color scheme with c++ in mind",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "unleashedcode-pastelpower",
+        "uiTheme": "vs-dark",
+        "path": "./themes/unleashedcode-pastelpower-color-theme.json"
+      }
+    ]
+  }
+}
